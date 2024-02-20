@@ -7,7 +7,7 @@ As an underwriter on AIG’s healthcare team (Lexington Healthcare), you have be
 - Identify the key strengths of Lexington Healthcare
 - Organize the information you have gathered into a clear and concise format on a one-page powerpoint slide
 
-TASK 2
+## TASK 2
 This task will have you go through the process of underwriting a healthcare submission using a mix of qualitative and quantitative tools according to the company’s underwriting guidelines. Remember, the insurance coverage here covers the liability of medical malpractice for healthcare providers.
 Open up the “Submission File.”
 Review the coverage specifics, including the size of the limits, the type of coverage, and the deductible.
