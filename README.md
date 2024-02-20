@@ -1,7 +1,7 @@
 # Underwriting-AIG
 (this is virtual experience from www.forage.com)
 
-TASK 1
+## TASK 1
 As an underwriter on AIG’s healthcare team (Lexington Healthcare), you have been asked by one of your broker partners to attend a crucial relationship-building meeting with the broker and potential insured. During this meeting, you will present the insurance product and the competitive advantages of AIG's healthcare team. You will prepare a one-page overview slide with key details about the healthcare team, present it to the potential insured, and take them to a business dinner following the meeting.
 - Gather information about AIG(Lexington Healthcare)
 - Identify the key strengths of Lexington Healthcare
